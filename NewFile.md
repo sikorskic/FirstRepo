@@ -6,3 +6,5 @@
 ### git status
 ### git add FileName OR git add . (for all)
 ### git commit -m "Add message"
+### git push origin master
+### (may need to 'git pull' if local doesn't match remote)
